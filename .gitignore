@@ -1,0 +1,6 @@
+env/
+data/
+output/**/*.svg
+*.pyc
+/.vscode
+kanji/*.npz
